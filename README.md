@@ -1,5 +1,5 @@
 # Peluqueria Canina
-Ejercicio dado en el curso del Polotic. Fue realizado en NetBeans.
+Ejercicio dado en el curso del [PoloTIC Misiones](https://polotic.misiones.gob.ar/quienes-somos/). Fue realizado en NetBeans.
 
 ### Escenario
 Aplicación de escritorio.
