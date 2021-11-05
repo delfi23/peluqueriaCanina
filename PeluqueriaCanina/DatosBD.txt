@@ -1,0 +1,9 @@
+BASE DE DATOS
+
+Nombre base de datos usada: cliente
+Usuario: peluqueria
+Contraseña: canina
+host: localhost
+port: 3306
+url: localhost/127.0.0.1
+
